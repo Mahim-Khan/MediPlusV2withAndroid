@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">MediPlus</string>
+
+    <string name="Reference1"><br>Dr.Sadia Halima\n</br>
+         <br>Session:2009-2010\n</br>
+         <br>DMDC Registration No: 7787\n</br>
+         <br>Passed From: Anwer Khan Modern Medical College Hospital\n</br>
+         <br>Degree: MBBS,DMU\n</br>
+         <br>Present: Dhanmondi General And Kidney Hospital Limited(Dhanmondi 7)\n</br>
+         <br>Phone: 01676735527\n</br></string>
+
+    <string name="doc2"><br>Dr.Md. Moyminul Islam\n</br>
+         <br>Session: 2013-2014\n</br>
+         <br>DMDC Registration No:9921\n</br>
+         <br>Passed From: Shaheed Suhrawardy Medical College,Dhaka\n</br>
+         <br>Degree: MBBS\n</br>
+         <br>Present: Salauddin Specialzed Hospital LTD.\n</br>
+         <br>Phone: 01893502330\n</br></string>
+
+    <string name="doc3"><br>Dr. Tahmina Sultana\n</br>
+         <br>Session:2011-2012\n</br>
+         <br>DMDC Registration No: 98545\n</br>
+         <br>Passed From: Southern Medical University,China\n</br>
+         <br>Degree: MBBS,PGT\n</br>
+         <br>Present: Dr.Sirajul Islam Medical college and Hospital\n</br>
+         <br>Phone: 01575071832\n</br></string>
+    <string-array name="Reference">
+        <item><br>Dr.Sadia Halima\n</br>
+         <br>Session: 2009-2010\n</br>
+         <br>DMDC Registration No: 7787\n</br>
+         <br>Passed From:Anwer Khan Modern Medical College Hospital\n</br>
+         <br>Degree: MBBS,DMU\n</br>
+         <br>Present: Dhanmondi General And Kidney Hospital Limited(Dhanmondi 7)\n</br>
+         <br>Phone: 01676735527\n</br></item>
+
+        <item><br>Dr.Md. Moyminul Islam\n</br>
+         <br>Session: 2013-2014\n</br>
+         <br>DMDC Registration No:9921\n</br>
+         <br>Passed From: Shaheed Suhrawardy Medical College,Dhaka\n</br>
+         <br>Degree: MBBS\n</br>
+         <br>Present: Salauddin Specialzed Hospital LTD.\n</br>
+         <br>Phone: 01893502330\n</br></item>
+
+        <item><br>Dr. Tahmina Sultana\n</br>
+         <br>Session:2011-2012\n</br>
+         <br>DMDC Registration No: 98545\n</br>
+         <br>Passed From: Southern Medical University,China\n</br>
+         <br>Degree: MBBS,PGT\n</br>
+         <br>Present: Dr.Sirajul Islam Medical college and Hospital\n</br>
+         <br>Phone: 01575071832\n</br></item>
+
+    </string-array>
+    <string name="File"><br>[TAB]Napa(500gm)\n</br>
+         <br>1 tablet(1-1-1)daily for 7 days\n</br>
+         <br>Unit Prize:0.80 BDT\n</br>
+         <br>Perscribed by Dr.Sadia Halima(for more details-></br>
+         </string>
+
+
+    <string-array name="Contact_info">
+        <item><br>Md. Aftabur Rahman Tonmoy\n </br>
+        <br>Phone: 01760384800\n </br>
+        <br>Email: aftabur15-10423@diu.edu.bd\n </br>
+        <br>ID: 173-15-10423\n</br>
+        <br>Daffodil International University\n</br></item>
+
+        <item><br>Abdullah Al Fahim\n</br>
+        <br>Phone: 01938931519\n</br>
+        <br>Email: abdullah15-10430@diu.edu.bd\n</br>
+        <br>ID: 173-15-10430\n</br>
+        <br>Daffodil International University\n</br></item>
+    </string-array>
+
+</resources>
